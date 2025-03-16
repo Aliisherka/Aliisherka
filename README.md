@@ -1,9 +1,6 @@
 Hi 👋 I'm Ali
 
----
-
-- 🌱 I’m currently study in Yandex-Practicum  
-  
+---  
 
 - 📫 How to reach me: aliisherka@mail.ru
 
